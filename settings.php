@@ -6,7 +6,7 @@
  * @license (c) 2014-2015 MyWikis, All Rights Reserved
  * HOW TO EDIT
  * Just edit the VARIABLES in single quotation or double quotation marks or none at all with numbers only.
- * Do NOT edit anything to the left or right of quotation marks nor anything that is not on a line that has an equal sign.
+ * Don't know programming?: Do NOT edit anything that is not on a line that has an equal sign.
  * Thank you!
 */
 if ( !defined ( 'MYWIKIS' ) ) {
