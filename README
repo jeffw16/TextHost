@@ -1,0 +1,38 @@
+////////////////
+//// README ////
+////////////////
+/// FOR..... ///
+/// TEXTHOST ///
+////////////////
+
+Thanks for using TextHost 3, an update to TextHost 2.2! This software was developed by MyWikis for noncommercial uses only (like a nonprofit Pastebin that does NOT have ads and attributes work to us!)
+
+If you'd like to use this software commercially, please ask MyWikis at contact@mywikis.com for pricing information.
+
+This software is licensed under the MyWikis License (http://central.mywikis.com/wiki/MyWikis_License) and the MyWikis Terms of Service (https://www.mywikis.com/terms).
+
+Please edit settings.php only, otherwise you are illegally hacking! Contact this email for more info and permission to legally hack: contact@mywikis.com.
+
+Thanks to Google and reCAPTCHA for the reCAPTCHA PHP library.
+
+// REQUIREMENTS
+
+* Now requires PHP 5.3
+
+/// RECOMMENDED SOFTWARE
+
+* Apache support only
+* Ubuntu Linux support only
+
+// NEW FEATURES
+* Using Bootstrap 3.3.2
+* Bootstrap link can be customized in settings.php
+* Copyrights and dates updated, we're now in 2015
+
+// CAVEATS:
+
+* If the texts directory is not storing texts, you'll need to chmod it to 755. DO NOT CHMOD THE DIRECTORY TO 777 UNLESS YOU WANT "AN ALMIGHTY GOD" TO HACK YOU! Chmoding the directory is legal.
+* We don't assume responsibility for anything. Just enjoy.
+
+// TO-DO
+* Use the reCAPTCHA 2 API (with No CAPTCHA)
