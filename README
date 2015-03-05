@@ -5,7 +5,7 @@
 /// TEXTHOST ///
 ////////////////
 
-Thanks for using TextHost 3, an update to TextHost 2.2! This software was developed by MyWikis for noncommercial uses only (like a nonprofit Pastebin that does NOT have ads and attributes work to us!)
+Thanks for using TextHost 3, an update to TextHost 2.2! This software was developed by MyWikis for noncommercial uses only (like a nonprofit pastebin that does NOT have ads and attributes work to us!)
 
 If you'd like to use this software commercially, please ask MyWikis at contact@mywikis.com for pricing information.
 
@@ -17,12 +17,14 @@ Thanks to Google and reCAPTCHA for the reCAPTCHA PHP library.
 
 // REQUIREMENTS
 
-* Now requires PHP 5.3
+* PHP 5.3
+* Read/writable directory (one is provided in this implementation)
 
 /// RECOMMENDED SOFTWARE
 
-* Apache support only
-* Ubuntu Linux support only
+* None, but we have...
+** Apache support only
+** Ubuntu Linux support only
 
 // NEW FEATURES
 * Using Bootstrap 3.3.2
