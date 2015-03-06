@@ -12,7 +12,7 @@
 define ( 'MYWIKIS' , 'TextHost' );
 require ( "includes.php" );
 require ( "settings.php" );
-$texthost = new TextHost;
+$texthost = new TextHost();
 ?>
 <!DOCTYPE html>
 <html>
